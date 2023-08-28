@@ -44,3 +44,9 @@ body{
     margin: auto;
     border-radius: 10px;
 }
+
+.Question-set-btn:hover{
+    background-color: #102C57;
+    color:#EADBC8;
+    transition: ease 0.3s;
+}
