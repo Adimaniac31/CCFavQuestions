@@ -50,3 +50,8 @@ body{
     color:#EADBC8;
     transition: ease 0.3s;
 }
+
+.Question-set-inputs{
+    border: 0.5px;
+    border-radius: 5px;
+}
