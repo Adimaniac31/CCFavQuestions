@@ -4,5 +4,13 @@
     align-items: center;
     margin:5px;
     padding: 5px;
+}
+
+body{
+    background-color: #102C57;
+    color: #DAC0A3;
+    border-radius: 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif cursive;
+    height:100px;
+    width:200px;
 }
