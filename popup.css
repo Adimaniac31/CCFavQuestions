@@ -19,7 +19,7 @@ body{
     margin: 2px;
 }
 
-#Question-description{
+.Question-set-inputs{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -28,7 +28,7 @@ body{
     margin-bottom:2px;
 }
 
-#Question-description-btn{
+.Question-set-btn{
     border-radius:50px;
     margin: 5px;
 }
