@@ -27,3 +27,8 @@ body{
     margin-top:2px;
     margin-bottom:2px;
 }
+
+#Question-description-btn{
+    border-radius:5px;
+    margin: 5px;
+}
