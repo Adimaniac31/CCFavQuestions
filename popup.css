@@ -33,6 +33,9 @@ body{
     border:0.5px;
     border-radius: 10px;
     margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #102C57;
+    font-weight: 200;
 }
 
 #Question-Set{
