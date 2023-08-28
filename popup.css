@@ -20,7 +20,7 @@ body{
     margin: 2px;
 }
 
-.Question-set-inputs{
+.Question-set-inputs-div{
     display: flex;
     flex-direction: column;
     align-items: center;
