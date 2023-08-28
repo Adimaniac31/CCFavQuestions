@@ -18,3 +18,12 @@ body{
 #Add{
     margin: 2px;
 }
+
+#Question-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto ;
+    margin-top:2px;
+    margin-bottom:2px;
+}
