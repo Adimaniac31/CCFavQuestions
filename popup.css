@@ -2,6 +2,7 @@
     display:flex;
     flex-direction: column;
     align-items: center;
+    font-size: 12px;
     margin:5px;
     padding: 5px;
 }
@@ -29,6 +30,14 @@ body{
 }
 
 .Question-set-btn{
-    border-radius:50px;
+    border:0.5px;
+    border-radius: 10px;
     margin: 5px;
+}
+
+#Question-Set{
+    background-color: #EADBC8;
+    padding:5px;
+    margin: auto;
+    border-radius: 10px;
 }
