@@ -11,6 +11,10 @@ body{
     color: #DAC0A3;
     border-radius: 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif cursive;
-    height:100px;
+    height:120px;
     width:200px;
+}
+
+#Add{
+    margin: 2px;
 }
