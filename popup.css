@@ -1,4 +1,8 @@
-#Question-name{
+#title{
     display:flex;
-    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    margin:5px;
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif cursive;
 }
