@@ -8,5 +8,9 @@ AddBtn.addEventListener('click',function(){
     });
 });
 
+GoBtn.addEventListener('click',function(){
+    chrome.tabs.create({'url': GoBtnLink.href});
+});
+
 
   
