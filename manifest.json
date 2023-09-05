@@ -1,7 +1,7 @@
 {
     "name": "CodeChef Favourite Questions",
     "version":"0.0.1",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "browser_action":{
         "default_icon":"logo.png",
         "default_popup": "popup.html"
