@@ -4,7 +4,7 @@ const GoBtn = document.getElementById("GoBtn");
 
 AddBtn.addEventListener('click',function(){
     chrome.tabs.query({currentWindow: true, active: true}, function(tabs){
-        console.log(tabs[0].url);
+        GoBtnLink.href=(tabs[0].url);
     });
 });
 
