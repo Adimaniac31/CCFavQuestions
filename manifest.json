@@ -16,10 +16,6 @@
     "icons":{
         "128": "logo.png"
     },
-    "background": {
-        "scripts": ["background.js"],
-        "persistent": false
-      },    
     "permissions":[
                     "activeTab",
                     "clipboardWrite",
