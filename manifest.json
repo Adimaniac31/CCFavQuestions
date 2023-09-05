@@ -22,7 +22,7 @@
       },    
     "permissions":[
                     "activeTab",
-                    "clipboardWrite"
+                    "clipboardWrite",
                     "tabs"
                   ]
 }
